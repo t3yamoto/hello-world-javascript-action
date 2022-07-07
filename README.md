@@ -16,6 +16,8 @@ The time we greeted you.
 
 ## 使用例
 
+```
 uses: actions/hello-world-javascript-action@v1.1
 with:
   who-to-greet: 'Mona the Octocat'
+```
